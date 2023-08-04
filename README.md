@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <!--React Icon-->
   <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="vscode" width="45" height="45"/>
   <!--Javascript Icon-->
-  <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/512/187_Js_logo_logos-512.png" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn0.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" alt="vscode" width="45" height="45"/>
 </p>
