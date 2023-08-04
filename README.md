@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
+  <!--Vscode Icon-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <!--React Icon-->
   <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" alt="vscode" width="45" height="45"/>
+  <!--Javascript Icon-->
+  <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/512/187_Js_logo_logos-512.png" alt="vscode" width="45" height="45"/>
 </p>
