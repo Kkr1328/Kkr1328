@@ -93,4 +93,4 @@ Hi! I'm Chinnapat Nitipornsri, a 4th-year Computer Engineering student at Chulal
 
 ## 🖥️ Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkr1328&layout=donut&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkr1328&layout=donut&theme=codeSTACKr&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
