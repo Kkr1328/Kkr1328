@@ -52,8 +52,8 @@ Hi! I'm Chinnapat Nitipornsri, a 4th-year Computer Engineering student at Chulal
 <span>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> -->
-  <!-- <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"> -->
+  <!--   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> -->
+  <!--   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </span>
 
@@ -87,3 +87,6 @@ Hi! I'm Chinnapat Nitipornsri, a 4th-year Computer Engineering student at Chulal
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </span>
 
+## 🔥 GitHub Streak 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kkr1328&theme=dark)](https://git.io/streak-stats)
