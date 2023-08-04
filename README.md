@@ -4,7 +4,7 @@
   <a href="https://github.com/Kkr1328">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/chinnapat-nitipornsri-027284211">
+  <a href="https://linkedin.com/in/chinnapat-nitipornsri-027284211">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href = "mailto: kharkkr@gmail.com">
@@ -74,7 +74,7 @@ Hi! I'm Chinnapat Nitipornsri, a 4th-year Computer Engineering student at Chulal
 ## 💡 Others
 
 <span>
-  <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black">
+  <!--   <img src="https://img.shields.io/badge/Babel-F9DC3e?styhttps://le=for-the-badge&logo=babel&logoColor=black"> -->
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
